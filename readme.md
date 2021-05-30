@@ -1,5 +1,5 @@
 # BibliothequeEnLigne
-Une application web qui permet aux profs de deposer les supports de leurs cours pour que les étudiants puissent les récuperer,et/ou des annonces informatives (changement d'horaire ,changement de salles...)
+Une application web qui permet aux professeurs de deposer les supports de cours et des annonces informatives afin que les étudiants puissent s'en servir et etre informés.
 # Technologies & outils techniques : 
 +Html/Css.  
 +PHP.   
