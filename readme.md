@@ -1,5 +1,5 @@
-# BibliothequeEnLigne
-Une application web qui permet aux professeurs de deposer les supports de cours et des annonces informatives afin que les étudiants puissent s'en servir et etre informés.
+# BibliothequeEnLigne (réalisée en 2018)
+Une application web qui permet aux professeurs de déposer les supports de cours et des annonce aux étudiants.
 # Technologies & outils techniques : 
 + Html/Css.  
 + PHP.   
@@ -9,7 +9,7 @@ Une application web qui permet aux professeurs de deposer les supports de cours 
 + SublimeText.  
 # Ce que j'ai appris :   
 + Manipulation des bases de données relationnelles grace à PhpMyAdmin.  
-+ Communication avec les base de données avec PHP.  
-+ Mettre un système d'envoie automatique de mails avec PHP.  
++ Intéraction avec les base de données avec PHP.  
++ Mettre en place un système d'envoie automatique de mails avec PHP.  
 + Uploader des fichiers avec PHP.  
-+ Utilisation de plusieurs élement Boostrap : Boutons, Carousel..  
++ Utilisation de plusieurs élements Boostrap : Boutons, Carousel..  
